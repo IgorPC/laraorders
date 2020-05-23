@@ -1,0 +1,217 @@
+body{
+    font-family: 'Righteous', cursive;
+}
+
+.titulo{
+    font-family: 'Merienda', cursive;
+    color: #910005;
+}
+
+.titulo-welcome{
+    font-size: 3em;
+}
+
+@media(min-width: 700px){
+    .titulo-welcome{
+        font-size: 5em;
+    }
+}
+
+.menu{
+    background-color: white;
+    position: fixed;
+    width: 100vw;
+    top: 0;
+    z-index: 1;
+}
+
+.menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.menu li {
+    margin-right: 2em;
+    margin-top: 1em;
+    float: right;
+}
+
+.menu-list{
+    color: gray;
+    font-size: 1.5em;
+    transition: color, font-weight, text-shadow, 0.5s;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+
+.menu-list:hover{
+    text-shadow: 1px 1px black;
+    color: #910005;
+    text-decoration: none;
+}
+
+.menu-itens{
+    font-family: 'Baloo Chettan 2', cursive;
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.welcome{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-titulo-welcome{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+    transition: color, text-shadow, 0.5s;
+    font-weight: bold;
+}
+
+.links:hover{
+    color: #910005;
+    text-shadow: 1px 1px black;
+    text-decoration: none;
+}
+
+.links-cliente{
+    text-decoration: none;
+    color: black;
+    transition: color, 0.5s;
+    font-weight: bold;
+}
+
+.links-cliente:hover{
+    color: #910005;
+    text-decoration: none;
+}
+
+.btn-especial{
+    font-family: 'Righteous', cursive;
+    transition: color, border, 0.5s;
+}
+
+.text-simple{
+    color: black;
+}
+
+.edit-icon{
+    color: black;
+    transition: color, 0.5s;
+}
+
+.edit-icon:hover{
+    color: #910005;
+}
+
+.cliente-ativo{
+    color: #19910d;
+    font-weight: bold;
+}
+
+.cliente-invativo{
+    color: #910005;
+    font-weight: bold;
+}
+
+.status-cliente{
+    font-size: 4em;
+    font-family: 'Righteous', cursive;
+}
+
+@media (min-width: 768px) {
+    .status-cliente{
+        margin-top: 0.8em;
+    }
+}
+
+.text-ordem-principal{
+    font-size: 15px;
+}
+.status-ordem{
+    font-family: 'Righteous', cursive;
+}
+
+.filter-nav{
+    border: solid 1px #6c757d;
+    color: black;
+    transition: background-color, color 0.5s;
+}
+
+.filter-nav:hover{
+    background-color: #6c757d;
+    color: white;
+}
+
+.filter-nav-active{
+    border: solid 1px transparent;
+    background-color: #6c757d;
+    color: white;
+    transition: background-color, color 0.5s;
+}
+
+.filter-nav-active:hover{
+    border: solid 1px #343a40;
+    color: white;
+    background-color: #343a40;
+}
+
+.list-cliente{
+    color: black;
+}
+
+.cliente-nome{
+    color: black;
+}
+
+.invisivel{
+    display:none;
+}
+
+.home-principal{
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.card-home{
+    transition: color, background-color, border, 0.5s;
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+.card-home:hover{
+    border-color: #910005;
+    background-color: #F2F2F2;
+    color: #910005;
+}
+
+.texto-modal{
+    text-indent: 1em;
+    text-align: justify;
+}
+
+.modal-body i{
+    color: black;
+    font-size: 2em;
+    transition: color, 0.5s;
+}
+
+.modal-body i:hover{
+    color: #910005;
+}
+
+.modal-contato{
+    font-family: 'Merienda', cursive;
+    color: #910005;
+    font-size: 1.5em;
+}
