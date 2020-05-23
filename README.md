@@ -10,7 +10,7 @@
 
    <p>Esse sistema foi desenvolvido utilizando Laravel, MySql, Javascript e Bootstrap.</p>
 
-   <p>Sua principal funcionalidade é permitir que os usuarios cadastrem clientes e serviços, e utilizando esses dados possam agendar ordens para atender esses clientes, com prazos de SLA sinalizados por cores que mudam conforme o tempo que a ordem tenha sido agendada. Quando a ordem for finalizada o usuario pode gerar uma impressão daquela ordem em PDF (Utilizando o mPDF) e entregar ou enviar por email para o cliente.</p>
+   <p>Sua principal funcionalidade é permitir que os usuários cadastrem clientes e serviços, e utilizando esses dados possam agendar ordens para atender esses clientes, com prazos de SLA sinalizados por cores que mudam conforme o tempo que a ordem tenha sido agendada. Quando a ordem for finalizada o usuário pode gerar uma impressão daquela ordem em PDF (Utilizando o mPDF) e entregar ou enviar por email para o cliente.</p>
 
 ## Tecnologias Utilizadas
 
