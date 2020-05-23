@@ -1,8 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/IgorPC/laraorders/master/public/Laraorders.png" width="400"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework">Login</a>
-<a href="https://packagist.org/packages/laravel/framework">Registrar</a>
+<a style="text-decoration: none; color: black" href="https://travis-ci.org/laravel/framework">Login</a>
+<a style="text-decoration: none color: black" href="https://packagist.org/packages/laravel/framework">Registrar</a>
 
 ## About Laravel
 
