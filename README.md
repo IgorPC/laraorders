@@ -1,8 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/IgorPC/laraorders/master/public/Laraorders.png" width="400"></p>
 
 <p align="center">
-<a style="color: black" href="https://travis-ci.org/laravel/framework">Login</a>
-<a style="color: black" href="https://packagist.org/packages/laravel/framework">Registrar</a>
+<a style="color: black" href="https://laraorders.herokuapp.com/login">Login</a>
+<a style="color: black" href="https://laraorders.herokuapp.com/register">Registrar</a>
 
 ## Sobre o projeto:
 
